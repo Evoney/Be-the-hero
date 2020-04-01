@@ -15,7 +15,6 @@
 <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/Evoney/Be-the-hero?color=7159C1">
 <img alt="Made by Evoney Mendonça" src="https://img.shields.io/badge/made%20by-Evoney-%20?color=7159C1">
 <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/Evoney/Be-the-hero?color=7159C1">
-<img alt="GitHub license" src="https://img.shields.io/github/license//Evoney/Be-the-hero?color=7159C1">
 </p> 
 
 <p align="center">
@@ -106,7 +105,7 @@ Now with everything on place, run the application.
 ```bash
 
 # to run the app
-yarn start
+npm start
 
 ```
 Expo will open a page in your browser, scan the QRcode on the page and wait for the app to load.
